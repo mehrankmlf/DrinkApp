@@ -5,6 +5,9 @@ iOS project for the implementation of MVVM-C in iOS Swift. It's an application t
 
 It is created with UIKit, SwiftUI, Alamofire, Combine, MVVM-C.
 
+## API
+- [TheCocktailDB API](https://www.thecocktaildb.com/) 
+
 ## How to run
 
 DrinkApp requires iOS 13.0 or later. If you are developer, you can set its deployment target to lower iOS version if needed.
